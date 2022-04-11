@@ -1,0 +1,16 @@
+{
+  "name": "no-to-do-api",
+  "version": "1.0.0",
+  "description": "Th",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Krishna Shrestha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
